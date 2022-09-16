@@ -1,1 +1,1 @@
-![banner](https://raw.githubusercontent.com/teixeirazeus/round_icon/master/readme_assets/banner.png)
+![banner](https://raw.githubusercontent.com/teixeirazeus/timekey/master/readme_assets/timekey_banner.png)
